@@ -1,4 +1,5 @@
-# simplified-examples
+# Simplified Linux-Commands with examples.
+
 Simplified examples for each of the Linux commands below..!
 
 Provided the single file containing both the Linux commands and their corresponding inputs and outputs:
