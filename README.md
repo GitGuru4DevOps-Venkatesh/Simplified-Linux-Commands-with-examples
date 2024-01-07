@@ -82,7 +82,6 @@ Provided the single file containing both the Linux commands and their correspond
     ```
     Line with pattern
     ```
-
 11. cat: Concatenate and display files
     Input: cat file.txt
     Output:
