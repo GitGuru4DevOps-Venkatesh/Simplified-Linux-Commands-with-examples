@@ -1,7 +1,7 @@
 # simplified-examples
-Here are simplified examples for each of the Linux commands..!
+Simplified examples for each of the Linux commands below..!
 
-Certainly! Here is a single file containing both the Linux commands and their corresponding inputs and outputs:
+Provided the single file containing both the Linux commands and their corresponding inputs and outputs:
 
 ```plaintext
 1. ls: List directory contents
