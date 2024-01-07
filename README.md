@@ -82,6 +82,7 @@ Provided the single file containing both the Linux commands and their correspond
     ```
     Line with pattern
     ```
+------------------------------------------------------------
 11. cat: Concatenate and display files
     Input: cat file.txt
     Output:
@@ -152,7 +153,7 @@ Provided the single file containing both the Linux commands and their correspond
     (No specific output; downloads the file)
     ```
 
-Certainly! Continuing from command 21 onwards:
+--------------------------------------------------------------------------
 
 ```plaintext
 21. curl: Transfer data to or from a server
@@ -227,7 +228,7 @@ Certainly! Continuing from command 21 onwards:
     /dev/sda1      100G   20G   80G   20%
     ```
 
-Certainly! Continuing from command 31 onwards:
+--------------------------------------------------------------
 
 ```plaintext
 31. du: Estimate file and directory space usage
@@ -305,7 +306,7 @@ Certainly! Continuing from command 31 onwards:
     (Opens the crontab file in an editor; no specific output here)
     ```
 
-Certainly! Continuing from command 41 onwards:
+----------------------------------------------------------------------
 
 ```plaintext
 41. useradd: Create a user account
@@ -378,7 +379,7 @@ Certainly! Continuing from command 41 onwards:
     (No specific output; synchronizes files and directories)
     ```
 
-Certainly! Continuing from command 51 onwards:
+----------------------------------------------------------------
 
 ```plaintext
 51. diff: Compare files line by line
@@ -451,7 +452,7 @@ Certainly! Continuing from command 51 onwards:
     (Extracts and prints the first field from lines with 'pattern')
     ```
 
-Certainly! Continuing from command 61 onwards:
+----------------------------------------------------------------------------
 
 ```plaintext
 61. sort: Sort lines in a text file
@@ -526,7 +527,7 @@ Certainly! Continuing from command 61 onwards:
     (Processes and files currently in use)
     ```
 
-Certainly! Continuing from command 71 onwards:
+-----------------------------------------------------------------------
 
 ```plaintext
 71. mkfs: Create a file system
