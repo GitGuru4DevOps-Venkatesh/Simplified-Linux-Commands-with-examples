@@ -4,7 +4,7 @@ Simplified examples for each of the Linux commands below..!
 
 Provided the single file containing both the Linux commands and their corresponding inputs and outputs:
 
-Certainly! Here are explanations and sample outputs for the provided Linux commands:
+Explanations and sample outputs for the provided Linux commands:
 
 ### 1. `ls` - List directory contents
    - **Input:** `ls`
