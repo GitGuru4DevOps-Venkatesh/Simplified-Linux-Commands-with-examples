@@ -1,5 +1,7 @@
 # Simplified Linux-Commands with examples.
 
+![image](https://github.com/GitGuru4DevOps-Venkatesh/Simplified-Linux-Commands-with-examples/assets/128009454/ab919f84-9d68-4a74-b208-0e4473bce19d)
+
 Simplified examples for each of the Linux commands below..!
 
 Provided the single file containing both the Linux commands and their corresponding inputs and outputs:
